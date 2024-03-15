@@ -1,11 +1,24 @@
-# typescript-sandbox
+# Básico
 
-Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
+## HTML.Básico
+Copiamos el siguiente código:
 
-Pasos:
+## CSS.Básico
+Le damos estilo al código HTML:
 
-- Clonate el proyecto.
-- Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm run dev`.
-- Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
-- Puedes empezar a meter tu código en el fichero:
+## Typescript.Básico
+Lo dotamos de funcionalidad, mostrando el turno según el botón pulsado (previous, next y reset)
+
+# Avanzado
+
+## HTML.Avanzado
+Copiamos el siguiente código:
+
+## CSS.Avanzado
+Le damos estilo al código HTML
+
+## Typescript.Avanzado
+Lo dotamos de funcionalidad, mostrando el turno según el botón pulsado (previous, next y reset):
+
+# Challengue
+Como podemos observar anteriormente, hemos añadido la función padStart a cada uno de los typescripts correspondientes.
